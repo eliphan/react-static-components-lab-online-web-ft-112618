@@ -3,7 +3,7 @@ import CatComponent from './CatComponent.js';
 import { EinsteinQuoteComponent } from './EinsteinQuoteComponent';
 import MouseComponent from './MouseComponent';
 
-class App extends Component {
+class App extends CatComponent {
 	render() {
 		// your code in the return statement below!
 		return (
