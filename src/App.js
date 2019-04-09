@@ -8,9 +8,9 @@ class App extends React.Component {
 		// your code in the return statement below!
 		return (
 			<div className="App">
-			</div>
-			< CatComponent />
+					< CatComponent />
 			< MouseComponent />
+			</div>
 		);
 	}
 }
